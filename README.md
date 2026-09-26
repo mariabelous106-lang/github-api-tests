@@ -1,3 +1,5 @@
+![Run GitHub API Tests](https://github.com/mariabelous106-lang/github-api-tests/actions/workflows/tests.yml/badge.svg)
+
 # GitHub API Tests
 
 Автотесты для публичного GitHub API с использованием Pytest + Requests.
